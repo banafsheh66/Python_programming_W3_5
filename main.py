@@ -17,5 +17,5 @@ elif choice == "2":
 elif choice == "0":
     print("Exiting...")
 else:
-    print("unknown option.")
+    print("Unknown option.")
 print("program ending.")
